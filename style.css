@@ -1,0 +1,31 @@
+body{
+    background-image: url("2023-05-22.png");
+    color:rgb(19, 25, 181);
+}
+
+.heading{
+    background-color: rgb(6, 199, 167);
+    border: 3px solid;
+    border-bottom:black;
+    box-shadow: 12px 12px 20px rgb(53, 53, 53);
+    font-size: 20px;
+    
+}
+
+canvas{
+    border: 7px ridge rgb(19, 25, 181);
+    
+}
+
+.copyright_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color:rgb(6, 199, 167);
+    line-height:3;
+    text-align:center ;
+}
+
+#square-size{
+    font-size:15px;
+}
